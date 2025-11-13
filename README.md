@@ -66,11 +66,9 @@ Each project I create supports both — because beauty lives in balance 🌗
 ---
 
 ## 📬 Let's Connect
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌎 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: [muhammedjabiruthari@gmail.com](mailto:muhammedjabiruthari@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammed-jabir-uthari-59278325a/](https://www.linkedin.com/in/muhammed-jabir-uthari-59278325a/)
+  
 
 ---
 
