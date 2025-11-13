@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Front-End Developer 💻
+# 👋 Hi, I'm [Muhammed Jabir U] — Front-End Developer 💻
 
 Welcome to my GitHub profile!  
 I'm a **Front-End Developer** with **2 years of experience** crafting responsive, user-friendly, and visually appealing web applications.  
